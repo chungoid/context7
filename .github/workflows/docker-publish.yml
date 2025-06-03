@@ -1,4 +1,4 @@
-# minor change
+# trigger workflow
         name: Publish Context7 MCP Server Image
         
         on:
