@@ -1,4 +1,4 @@
-# trigger workflow
+# workflow
         name: Publish Context7 MCP Server Image
         
         on:
